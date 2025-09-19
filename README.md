@@ -22,7 +22,6 @@ This repository is designed as a portfolio project to demonstrate SQL proficienc
 
 ```
 SQL-Sales-Data-Analytics/
-│
 ├── datasets/            # Datasets used iin this project
 ├── scripts/             # Scripts for exploring schema, tables, and columns
 │
