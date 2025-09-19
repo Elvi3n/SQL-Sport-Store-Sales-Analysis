@@ -26,7 +26,7 @@ This repository is designed as a portfolio project to demonstrate SQL proficienc
 ├── scripts/             # Scripts for exploring schema, tables, and columns
 │
 ├── LICENSE
-└── README.md            # Documentation (this file)
+└── README.md            # Documentation (this file)```
 
 
 ## Example Analyses
