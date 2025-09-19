@@ -20,14 +20,15 @@ This repository is designed as a portfolio project to demonstrate SQL proficienc
 
 ## Repository Structure
 
-```SQL-Sales-Data-Analytics/
+```
+SQL-Sales-Data-Analytics/
 │
 ├── datasets/            # Datasets used iin this project
 ├── scripts/             # Scripts for exploring schema, tables, and columns
 │
 ├── LICENSE
-└── README.md            # Documentation (this file)```
-
+└── README.md            # Documentation (this file)
+```
 
 ## Example Analyses
 
