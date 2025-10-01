@@ -1,6 +1,6 @@
 # Query Results
 
-##**01 Performance Over Time**
+**01 Performance Over Time**
 
 Find the total sales, total customers, and quantity by months of each year
 
