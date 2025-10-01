@@ -1,8 +1,10 @@
 # Query Results
 
-```
--- Analyze performance over time
+- **01_Performance Over Time**
+
 -- Find the total sales, total customers, and quantity by months of each year
+
+```
 SELECT
 	DATETRUNC(MONTH, order_date) as order_date,
 	SUM(sales_amount) as total_sales,
