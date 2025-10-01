@@ -18,6 +18,8 @@ ORDER BY DATETRUNC(MONTH, order_date);
 
 <img width="337" height="382" alt="image" src="https://github.com/user-attachments/assets/b23c5ba4-271a-49ee-84f8-8fdebc392d02" />
 
+
+
 **02 Cumulative Analysis**
 
 Calculate the total sales per month and the running total of sales over time by each year
@@ -47,6 +49,8 @@ GROUP BY DATETRUNC(MONTH, order_date)
 ```
 
 <img width="383" height="307" alt="image" src="https://github.com/user-attachments/assets/ee5cd451-77a1-4d97-9ba2-83a49e262ff3" />
+
+
 
 **03 Performance Analysis**
 
@@ -92,6 +96,8 @@ ORDER BY
 
 <img width="680" height="305" alt="image" src="https://github.com/user-attachments/assets/54ce9e75-2a9a-4509-9169-be79c0998e42" />
 
+
+
 **04 Part-to-Whole Analysis**
 
 Which categories contributed the most to overall sales
@@ -117,6 +123,8 @@ ORDER BY total_sales DESC;
 ```
 
 <img width="360" height="344" alt="image" src="https://github.com/user-attachments/assets/1eeac04a-91c4-41c0-afc5-dceec8bf4b43" />
+
+
 
 **05 Data Segmentation**
 
@@ -153,9 +161,11 @@ ORDER BY product_count DESC;
 **06 Customer Segmentation**
 
 Group customers into segments based on their spending behavior
-	- VIP - at leaset 12 months of history and spending more then 5000
-	- Regular - at least 12 months of history but spending 5000 or less
-	- New - lifespan less then 12 months
+
+- VIP - at leaset 12 months of history and spending more then 5000
+- Regular - at least 12 months of history but spending 5000 or less
+- New - lifespan less then 12 months
+	
 Find the total number of customers by groups
 
 ```
