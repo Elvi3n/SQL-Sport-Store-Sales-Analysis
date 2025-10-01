@@ -1,15 +1,10 @@
 # SQL-Sales-Data-Analytics
 
-A comprehensive collection of SQL scripts for data exploration, analytics, and reporting. This repository demonstrates how to query and analyze sales data in a relational database using best practices in SQL.
+## Project Goal
 
+Investigate the sales performance of a Sport store by generating key business metrics of sales items in order to surface recommendations on selling strategies. Some examples included 
 
-The queries in this project showcase practical applications such as:
-
-  - Exploring database schema and metadata
-
-  - Generating key business metrics (sales, revenue, customer counts)
-
-  - Analyzing time-based trends and seasonality
+  - Time-based trends and seasonality
 
   - Building cumulative and running totals
 
@@ -18,7 +13,11 @@ The queries in this project showcase practical applications such as:
   - Preparing data for reporting and dashboards
     
 
-This repository is designed as a portfolio project to demonstrate SQL proficiency, problem-solving ability, and a clear workflow for real-world analytics.
+## Database Structure
+
+The dataset consisted of three tables, including information of products, sales, and customers.
+
+<img width="1123" height="433" alt="image" src="https://github.com/user-attachments/assets/330b60e7-366f-4445-a86b-3da844a4439d" />
 
 ## Repository Structure
 
@@ -69,15 +68,15 @@ ORDER BY product_count DESC;
 <img width="198" height="110" alt="image" src="https://github.com/user-attachments/assets/7d40b23d-e00c-4e6d-94bf-133c3eb23ead" />
 
 
-## Skills Demonstrated
+## Insights Summary
 
-- SQL fundamentals: SELECT, JOIN, GROUP BY, HAVING
+- **Product Diversivication** - The business shows heavy reliance on bike-related items, which presents both strengths and risks. If the biking market slows down or becomes saturated, revenue growth will be directly impacted
 
-- Advanced SQL: CTEs, Window Functions, Subqueries
+	- **Recommendation:** The business should consider exploring complementary categories that already align with existing customer interests, such as clothings and accessories. This approach will reduce reliance on one category while building resilience and long-term growth potential.
+  
+- **New Customers Dominated** - Over 60% of customers spent less than $5,000 and have been with the business for less than 12 months. While it shows success in attracting new customers, it also highlights a lack of long term retention and customer lifetime value. Causing the risks a revolving door effect, where customer purchase once and fail to retrun.
 
-- Performance considerations: indexing, filtering, grouping
-
-- Translating business questions into analytical queries
+	- **Recommendation:** Introduce loyalty programs to incentivize repeat purchases or implement personalized marketing campaigns that target customers based on purchase history.
 
 ## License
 
