@@ -2,7 +2,7 @@
 
 **01_Performance Over Time**
 
--- Find the total sales, total customers, and quantity by months of each year
+Find the total sales, total customers, and quantity by months of each year
 
 ```
 SELECT
