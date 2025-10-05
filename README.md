@@ -25,6 +25,7 @@ The dataset consisted of three tables, including information of products, sales,
 SQL-Sales-Data-Analytics/
 ├── datasets/            
 ├── scripts/             # Scripts for exploring schema, tables, and columns
+├── results/
 ├── LICENSE
 └── README.md            
 ```
