@@ -70,7 +70,7 @@ ORDER BY product_count DESC;
 
 ## Insights Summary
 
-- **Product Diversivication** - The business shows heavy reliance on bike-related items, which presents both strengths and risks. If the biking market slows down or becomes saturated, revenue growth will be directly impacted
+- **Product Diversification** - The business shows heavy reliance on bike-related items, which presents both strengths and risks. If the biking market slows down or becomes saturated, revenue growth will be directly impacted
 
 	- **Recommendation:** The business should consider exploring complementary categories that already align with existing customer interests, such as clothings and accessories. This approach will reduce reliance on one category while building resilience and long-term growth potential.
   
